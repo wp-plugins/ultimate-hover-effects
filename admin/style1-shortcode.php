@@ -51,8 +51,8 @@ function ultimate_hover_effects_style1_shortcode($atts, $content = null){
 						<img src="'.$style1_info['style1_image'].'"/>
 						<figcaption>
 							<a style="margin-top:'.$style1_move_texts_topbottom.'px;margin-left:'.$style1_move_texts_leftright.'px" href="'.$style1_info['style1_link'].'" target="'.$style1_link_open.'">
-								<h3 style="font-size: '.$style1_heading_fontsize.'px; font-family: '.$style1_fontfamily.'; color: '.$style1_heading_color.'">'.$style1_info['style1_title'].'</h3>
-								<span style="font-size: '.$style1_desc_fontsize.'px; font-family: '.$style1_fontfamily.'; color: '.$style1_desc_color.'">'.$style1_info['style1_description'].'</span>
+								<h3>'.$style1_info['style1_title'].'</h3>
+								<span>'.$style1_info['style1_description'].'</span>
 							</a>
 							</figcaption>
 					</figure>
@@ -60,7 +60,6 @@ function ultimate_hover_effects_style1_shortcode($atts, $content = null){
 				
 		$i++;
 	}
-		$output .='<style type="text/css">'.$style1_custom_css.'</style>';	
 		$output .='</ul>';	
 
 	
