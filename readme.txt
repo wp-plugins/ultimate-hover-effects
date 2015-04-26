@@ -1,7 +1,7 @@
 === Ultimate Hover Effects ===
 Contributors: wpeffects
 Donate link: http://demo.wpeffects.com/ultimate-hover-effects/
-Tags: css3 image caption, hover effect, css3 hover effects, wordpress image caption, hover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
+Tags: css3 thumbnails, text effects, wp portfolio effects, css3 image caption, hover effect, css3 hover effects, wordpress image caption, hover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover, ultimate hover effects, stylish image effects, gallery effects, wp image gallery, image captions, modern hover effects, image effects 2015, 
 Requires at least: 3.0.1
 Tested up to: 4.1
 Stable tag: 1.2
