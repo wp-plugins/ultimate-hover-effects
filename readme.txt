@@ -71,8 +71,10 @@ Go to page > Add New. On the editor, just paste the shortcode.
 == Screenshots ==
 
 1. Adding post item.
-2. Option panel for this plugin.
-3. Settings panel
+2. Selecting style.
+3. Custom ordering.
+4. Settings panel 1 for this style.
+5. Settings panel 2 for this style.
 
 == Changelog ==
 
