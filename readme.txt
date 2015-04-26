@@ -38,7 +38,7 @@ See live demo here: http://demo.wpeffects.com/ultimate-hover-effects/
 </ul>
 
 
-<strong><a href="http://demo.wpeffects.com/ultimate-hover-effects/">Pro Version Features</a></strong>
+<strong><a target="_blank" href="http://demo.wpeffects.com/ultimate-hover-effects/">Pro Version Features</a></strong>
 <ul>
 	<li>4 Styles.</li>
 	<li>30+ premium hover effects.</li>
