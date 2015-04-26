@@ -4,7 +4,7 @@ Donate link: http://demo.wpeffects.com/ultimate-hover-effects/
 Tags: css3 image caption, hover effect, css3 hover effects, wordpress image caption, hover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover item
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -78,6 +78,9 @@ Go to page > Add New. On the editor, just paste the shortcode.
 
 == Changelog ==
 
+= 1.2 =
+* screenshots added
+
 = 1.1 =
 * fixed new bugs
 
@@ -85,6 +88,9 @@ Go to page > Add New. On the editor, just paste the shortcode.
 * First Release
 
 == Upgrade Notice ==
+
+= 1.2 =
+* screenshots added
 
 = 1.1 =
 * fixed new bugs
