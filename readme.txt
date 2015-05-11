@@ -1,10 +1,10 @@
 === Ultimate Hover Effects ===
 Contributors: wpeffects
 Donate link: http://demo.wpeffects.com/ultimate-hover-effects/
-Tags: css3 thumbnails, text effects, wp portfolio effects, css3 image caption, hover effect, css3 hover effects, wordpress image caption, hover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover, ultimate hover effects, stylish image effects, gallery effects, wp image gallery, image captions, modern hover effects, image effects 2015, 
+Tags: css3 thumbnails, text effects, wp portfolio effects, css3 image caption, hover effect, css3 hover effects, wordpress image caption, hover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover, ultimate hover effects, stylish image effects, gallery effects, wp image gallery, animation, awesome image effects, button, caption, Caption WordPress Plugin, Circle, colors, Css Caption Plugin, css3, css3 hover effects, css3 hover item, css3 image caption, image captions, modern hover effects, image effects 2015, 
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -40,12 +40,12 @@ See live demo here: http://demo.wpeffects.com/ultimate-hover-effects/
 
 <strong><a target="_blank" href="http://demo.wpeffects.com/ultimate-hover-effects/">Pro Version Features</a></strong>
 <ul>
-	<li>4 Styles.</li>
-	<li>30+ premium hover effects.</li>
+	<li>5 Styles.</li>
+	<li>34+ premium hover effects.</li>
 	<li>Custom thumbnail width. </li>
 	<li>Custom thumbnail height. </li>
 	<li>Custom thumbnails adjustment. </li>	
-	<li>500+ Google fonts. </li>
+	<li>600+ Google fonts. </li>
 	<li>Custom font size for title and description. </li>
 	<li>Unlimited font color for title and description. </li>
 	<li>External link for each hover item.</li>
@@ -78,6 +78,9 @@ Go to page > Add New. On the editor, just paste the shortcode.
 
 == Changelog ==
 
+= 1.3 =
+* new style added
+
 = 1.2 =
 * screenshots added
 
@@ -88,6 +91,9 @@ Go to page > Add New. On the editor, just paste the shortcode.
 * First Release
 
 == Upgrade Notice ==
+
+= 1.3 =
+* new style added
 
 = 1.2 =
 * screenshots added
