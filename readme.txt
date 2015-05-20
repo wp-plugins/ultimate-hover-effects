@@ -21,6 +21,11 @@ You can easily add hover effects using an image & embed them in separate page po
 See live demo here: http://demo.wpeffects.com/ultimate-hover-effects/
 
 
+<strong>Video Tutorial:</strong>
+
+[youtube https://www.youtube.com/watch?v=3rQQyop3DgI&]
+
+
 <strong>Features</strong>
 <ul>
 	<li>Super easy installation. </li>
