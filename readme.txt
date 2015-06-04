@@ -4,7 +4,7 @@ Donate link: http://demo.wpeffects.com/ultimate-hover-effects/
 Tags: css3 thumbnails, text effects, wp portfolio effects, css3 image caption, hover effect, css3 hover effects, wordpress image caption, hover wordpress plugin, image hover, image caption, wp image caption, css3 transition, pure css3 effects, css3 hover, ultimate hover effects, stylish image effects, gallery effects, wp image gallery, animation, awesome image effects, button, caption, Caption WordPress Plugin, Circle, colors, Css Caption Plugin, css3, css3 hover effects, css3 hover item, css3 image caption, image captions, modern hover effects, image effects 2015, 
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.4
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -83,6 +83,9 @@ Go to page > Add New. On the editor, just paste the shortcode.
 
 == Changelog ==
 
+= 1.5 =
+* custom fonts issue fixed
+
 = 1.4 =
 * new option added
 
@@ -99,6 +102,9 @@ Go to page > Add New. On the editor, just paste the shortcode.
 * First Release
 
 == Upgrade Notice ==
+
+= 1.5 =
+* custom fonts issue fixed
 
 = 1.4 =
 * new option added

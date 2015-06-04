@@ -5,7 +5,7 @@ Plugin URI: http://demo.wpeffects.com/ultimate-hover-effects/
 Description: Ultimate Hover Effects is simple modern, yet stylish hover effects for image captions. Eye catching image effects with CSS3 transition for your website to improve your business.
 Author: Noor-E-Alam
 Author URI: http://demo.wpeffects.com/ultimate-hover-effects/
-Version: 1.4
+Version: 1.5
 */
 
 //Loading CSS
