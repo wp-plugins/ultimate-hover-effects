@@ -99,7 +99,7 @@ return array(
 						'type' => 'notebox',
 						'name' => 'nb_1',
 						'label' => __('Author Comment', 'vp_textdomain'),
-						'description' => __('To get all styles & features active, please buy the pro version here <a target="_blank" href="http://demo.wpeffects.com/ultimate-hover-effects/">Ultimate Hover Effects Pro</a> for only $11', 'vp_textdomain'),
+						'description' => __('To get all styles & features working, please buy the pro version here <a target="_blank" href="http://demo.wpeffects.com/ultimate-hover-effects/">Ultimate Hover Effects Pro</a> for only $11', 'vp_textdomain'),
 						'status' => 'error',
 						),
 
